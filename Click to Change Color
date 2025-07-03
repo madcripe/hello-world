@@ -15,7 +15,6 @@
     }
  ` </style>`
 `</head>`
-`</body>`
 
   `<h1>`Click the Button to Change Background Color`</h1>`
   `<button id="colorButton">Change Color</button>`
