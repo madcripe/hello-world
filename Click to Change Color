@@ -13,7 +13,7 @@
       font-size: 18px;
       cursor: pointer;
     }
- ` </style>`
+ `</style>`
 `</head>`
 
   `<h1>`Click the Button to Change Background Color`</h1>`
